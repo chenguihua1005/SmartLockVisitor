@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Courier</string>
+
+    <string name="dialog_quit_app">Are you leaving?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
